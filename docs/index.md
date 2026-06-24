@@ -147,6 +147,8 @@ title: 主页
 
 - [__人形机器人站立行走__](./mujoco_man/mujoco_manrun.md) -  基于 CPG + PD 的人形机器人稳定站立与行走仿真（MuJoCo）
 
+- [__CARLA自动驾驶控制__](carla_autonomous_control/index.md) - 基于CARLA模拟器的自动驾驶控制项目
+
 - [__td3_carracing__](./td3_carracing/README.md) - 基于 TD3 + CNN 的 CarRacing 强化学习自动驾驶系统
 
 - [__机器人仿真(MuJoCo)__](ant_robot/机器人仿真系统.md)
