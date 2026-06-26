@@ -95,8 +95,8 @@ py -3.7 main.py --agent Behavior --loop --record_data acc_data.csv
 
 下图展示了启用 MLP 模型后，车辆在自适应巡航控制下的平稳跟车表现（HUD 中可见跟车距离和速度曲线）。
 
-![MLP-ACC 平稳跟车效果图1](image/mlp_acc_following_1.png)
-![MLP-ACC 平稳跟车效果图2](image/mlp_acc_following_2.png)
+![MLP-ACC 平稳跟车效果图1](image/mlp_acc_following_01.png)
+![MLP-ACC 平稳跟车效果图2](image/mlp_acc_following_02.png)
 
 *图：车辆跟随前车时，速度曲线平滑，障碍物距离稳定在合理范围内，加减速平缓。*
 
