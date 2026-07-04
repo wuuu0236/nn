@@ -1,5 +1,2 @@
+mkdocs
 python-markdown-math
-imageio
-numpy
-matplotlib
-tensorflow
